@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "cloud coumputing assignmnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "latest",
+    "ejs": "^2.4.1",
+    "express": "latest"
+  
+  }
+}
